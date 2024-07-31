@@ -5,7 +5,7 @@ website:
   title: "My Quarto Project"
   navbar:
     left:
-      - href: index.html
+      - href: /_site/index.html
         text: "Home"
 
 # Pas de format à ce niveau, il est configuré dans le fichier Qmd ou le Notebook
